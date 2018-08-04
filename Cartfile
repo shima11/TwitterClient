@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "SwiftyJSON/SwiftyJSON"
+github "realm/realm-cocoa"
+github "Hearst-DD/ObjectMapper" ~> 1.1
+github "rs/SDWebImage"
+github "thii/FontAwesome.swift" >= 0.4.1
